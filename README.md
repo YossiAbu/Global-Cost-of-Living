@@ -19,7 +19,7 @@ for the results we got.
 
 ## Repository Structure
 
-- `cost-of-living.ipynb`: Jupyter Notebook containing the analysis code.
+- `Project.ipynb`: Jupyter Notebook containing the analysis code.
 - `datasets/`: Directory containing datasets used for analysis.
   - `global-cost-of-living/`: Directory containing datasets related to the global cost of living.
     - [Dataset files for global cost of living analysis]
