@@ -1,4 +1,6 @@
 # Global Cost of Living
+Cost of living comparison between different countries around the world
+
 ## Problem Statement
 The problem we aim to investigate is the disparities in the cost of living among countries and continents. Our goal is to analyze which countries pose challenges for their citizens in maintaining a standard of living and to understand Israel's position relative to the rest of the world. To achieve this, we will utilize data analysis techniques to extract insights from datasets related to the subject and create visualizations to showcase the variations in the cost of living across countries.
 
